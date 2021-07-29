@@ -4,6 +4,9 @@ berikut adalah list achievement yang sudah di dapatkan
 3. Java Spring Framework
 4. mastering springboot
 5. mastering apache jenkins
-6. mastering data structure
-7. mastering SAP
-8. mastering MAXIMO
+6. mastering Tiketing START
+7. mastering data structure
+8. mastering apache Tomcat
+9. mastering SAP
+10. mastering MAXIMO
+
