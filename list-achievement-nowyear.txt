@@ -2,4 +2,6 @@ list skill yang sudah di achieve di tahun ini.
 1. skill html
 2. skill css
 3. skill javascript
-4. skill 
+4. skill Java
+5. skill berkebun
+6. skill memanjat pohon
