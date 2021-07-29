@@ -2,3 +2,5 @@ berikut adalah list achievement yang sudah di dapatkan
 1. javascript framework (vue js)
 2. PHP framework ( laravel )
 3. Java Spring Framework
+4. mastering springboot
+5. mastering apache jenkins
